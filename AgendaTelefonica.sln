@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTelefonica", "AgendaTelefonica\AgendaTelefonica.csproj", "{6A36E718-12D7-45A2-9E18-5572CDBC8159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A36E718-12D7-45A2-9E18-5572CDBC8159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A36E718-12D7-45A2-9E18-5572CDBC8159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A36E718-12D7-45A2-9E18-5572CDBC8159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A36E718-12D7-45A2-9E18-5572CDBC8159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEBE3473-E1A8-450C-BD5E-46951B847644}
+	EndGlobalSection
+EndGlobal
